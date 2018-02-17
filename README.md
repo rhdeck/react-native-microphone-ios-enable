@@ -1,6 +1,6 @@
-# react-native-camera-ios-enable
+# react-native-microphone-ios-enable
 
-Adds security message to allow use of the camera without requiring XCode intervention
+Adds security message to allow use of the microphone without requiring XCode intervention
 
 # Usage
 
