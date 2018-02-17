@@ -1,6 +1,6 @@
 {
   "name": "react-native-microphone-ios-enable",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Enable IOS Microphone by setting privacy text",
   "main": "index.js",
   "scripts": {
