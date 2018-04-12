@@ -6,7 +6,7 @@ var plist = require("plist");
 //Get my directory
 var thisPath = process.argv[1];
 var thisPath = path.dirname(thisPath); //dependency directory
-var privacyText = "This app requires the camera to function";
+var privacyText = "This app requires the microphone to function";
 const myPackagePath = path.resolve(thisPath, "package.json");
 if (fs.existsSync(myPackagePath)) {
   const mypackage = require(myPackagePath);
